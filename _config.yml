@@ -1,0 +1,14 @@
+layout_spectrum: 0.2692681213375181
+typography_spectrum: 0.9331834719050676
+color:
+  brandStrength: 0.3412551924120635
+  lightness: 0.9502148609608412
+  saturation: 0.3904769995715469
+  rhythmicContrast: 0.47901403345167637
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: CourtneyMakesVideo
